@@ -1,0 +1,42 @@
+{
+  "app_name": "FarmDrop",
+  "welcome_message": "Welcome to the FarmDrop",
+  "select_language": "Select Language",
+  "product_list": "Product List",
+  "add_product": "Add Product",
+  "price": "Price"
+  
+  
+  "app_title": "Resources",
+  "crop_management": "Crop Management",
+  "organic_farming_title": "Organic Farming Techniques",
+  "organic_farming_description": "Learn about organic methods to enhance crop growth and soil health.",
+  "organic_farming_content": "Organic farming, also known as ecological farming or biological farming is an agricultural system that uses fertilizers of organic origin such as compost manure, green manure, and bone meal and places emphasis on techniques such as crop rotation and companion planting. ...",
+  "pest_control_title": "Pest Control Methods",
+  "pest_control_description": "Discover effective strategies for controlling pests in crops.",
+  "pest_control_content": "Pest control methods are crucial for safeguarding crops, livestock, and human health from harmful pests. These methods can be broadly categorized into chemical, biological, and cultural approaches: ...",
+  "livestock_care": "Livestock Care",
+  "feeding_livestock_title": "Feeding Livestock",
+  "feeding_livestock_description": "Guidelines for proper nutrition and feeding practices for livestock.",
+  "feeding_livestock_content": "Animal feeding is the cornerstone and its management directly or indirectly affects the entire sector. Livestock is fed to achieve the maximum yields and to bring the highest economic profits. ...",
+  "disease_management_title": "Disease Management",
+  "disease_management_description": "Learn how to prevent and manage common livestock diseases.",
+  "disease_management_content": "The livestock industry is extremely important to the economy of Oklahoma and includes not only commercial producers of meat or milk, but also purebred breeders and small producers with a few animals. ...",
+  "water_management": "Water Management",
+  "efficient_irrigation_title": "Efficient Irrigation Techniques",
+  "efficient_irrigation_description": "Best practices for efficient irrigation to save water and enhance crop growth.",
+  "efficient_irrigation_content": "Irrigation techniques are essential for enhancing agricultural productivity and managing water resources effectively. Various methods cater to different crops, soil types, and water availability. ...",
+  "rainwater_harvesting_title": "Rainwater Harvesting",
+  "rainwater_harvesting_description": "Methods to collect and use rainwater for farming purposes.",
+  "rainwater_harvesting_content": "Rainwater harvesting is a sustainable practice that involves collecting and storing rainwater for later use. This method addresses water scarcity issues and promotes efficient water management by utilizing a natural resource that often goes to waste. ...",
+  "soil_health": "Soil Health",
+  "soil_fertility_title": "Soil Fertility Improvement",
+  "soil_fertility_description": "Techniques to enhance soil fertility for better crop yield.",
+  "soil_fertility_content": "Soil fertility depletion and soil degradation present the most serious problems. According to an FAO study (FAO 2001), African soils lose an annual average of 48 Kg/ha of nutrients, the equivalent of 100 Kg/year of fertilizer. ...",
+  "erosion_control_title": "Erosion Control Methods",
+  "erosion_control_description": "Strategies to prevent soil erosion and maintain soil quality.",
+  "erosion_control_content": "Soil erosion: It is a natural phenomenon, in which physical factors like water and wind carry away or displaces the topsoil. The following are the methods of preventing soil erosion: ..."
+}
+
+
+
